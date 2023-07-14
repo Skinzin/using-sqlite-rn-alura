@@ -1,9 +1,9 @@
 <h1 align="center">Uma nota por aqui?</h1>
 
 <p align="center">
-  <a href="tecnologia">Tecnologia(s)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="use">Como usar?</a>
+  <a href="#tecnologia">Tecnologia(s)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#use">Como usar?</a>
 </p>
 
 <a id="tecnologia"/>
